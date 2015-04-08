@@ -2,7 +2,7 @@ package com.mrjaffesclass.apcs.todolist;
 
 /**
  *
- * @author Roger Jaffe
+ * @author Nick Patrick, Jack Kurz and Brandon Cooper
  * @version 1.0
  */
 public class AboutView extends javax.swing.JDialog {
