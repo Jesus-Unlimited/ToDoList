@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 /**
  * View for editing to do items
  * 
- * @author Roger Jaffe
+ * @author Nick Patrick, Jack Kurz, and Brandon Cooper
  * @version 1.0
  */
 public class EditView extends javax.swing.JDialog implements MessageHandler {
