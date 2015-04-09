@@ -5,7 +5,7 @@ import java.util.Date;
 /**
  * To do item
  * 
- * @author Roger Jaffe
+ * @author Nick Patrick, Jack Kurz, Brandon Cooper
  * @version 1.0
  */
 public class ToDoItem {
