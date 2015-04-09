@@ -6,7 +6,7 @@ import java.util.Date;
  * To do list controller.  The controller will bootstrap the app.  "Bootstrap"
  * means to create and load all the other classes in the app.
  *
- * @author Roger Jaffe
+ * @author Nick Patrick, Jack Kurz, and Brandon Cooper
  * @version 1.0
  */
 public class AppController implements MessageHandler {
