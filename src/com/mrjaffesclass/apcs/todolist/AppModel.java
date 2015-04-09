@@ -7,7 +7,7 @@ import com.mrjaffesclass.apcs.todolist.ToDoItem;
 
 /**
  * The model represents the data that the app uses.
- * @author Roger Jaffe
+ * @author Nick Patrick, Brandon Cooper, Jack Kurz
  * @version 1.0
  */
 public class AppModel implements MessageHandler {
