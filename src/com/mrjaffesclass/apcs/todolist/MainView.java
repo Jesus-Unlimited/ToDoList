@@ -6,7 +6,7 @@ import static java.util.Collections.list;
 import javax.swing.table.*;
 /**
  * To do list main view
- * @author Spencer Adams
+ * @author Nick Patrick, Brandon Cooper, Jack Kurz
  * @version 2.0
  * 
  */
